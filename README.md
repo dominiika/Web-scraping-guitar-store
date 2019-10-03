@@ -4,6 +4,8 @@ It is a simple application which scrapes information about guitars from a music 
 
 ### Prerequisites
 
+Python 3.6
+
 Install dependencies:
 
 ```
